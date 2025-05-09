@@ -1,4 +1,5 @@
-{{}}
+{
+    
 {
     enum Day {
   Monday,
@@ -21,4 +22,5 @@ function getDayType(day: Day): string {
 
 console.log(getDayType(Day.Monday)); 
 console.log(getDayType(Day.Sunday));  
+}
 }
