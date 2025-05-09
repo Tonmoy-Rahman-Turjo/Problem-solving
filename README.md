@@ -14,7 +14,7 @@ Intersection types in TypeScript allow you to combine multiple types together to
 3. Avoid repetition
 4. Execution of multiple contracts
 5. Creating more specific types
-6 . Type safety
+6. Type safety.
 
 
 
